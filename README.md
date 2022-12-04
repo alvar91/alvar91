@@ -71,6 +71,19 @@
 <table>
   <tr>
     <td width='320px'>
+      <a href='https://alvar91.github.io/stdpls-pug-scss-js' title='View project demo'>
+        <img src='assets/stdpls.gif' width='300px'>
+      </a>
+    </td>
+    <td>
+      <h3><a href='https://github.com/alvar91/stdpls-pug-scss-js' title='Open repository'>SitDownPls</a></h3>
+      <p>Responsive, Accessibility, Pixel perfect, Perfomance</p>
+      <p>PUG, SCSS, JavaScript, Yandex maps, Swiper, Input mask, Choices, Nouislider, Progressbar, Gulp, Express, Nodemailer</p>
+      <p>«SitDownPls» — a network of furniture and home accessories stores</p>
+    </td>
+  </tr>
+  <tr>
+    <td width='320px'>
       <a href='https://alvar91.github.io/blanchard-html-css-js' title='View project demo'>
         <img src='assets/blanchard.gif' width='300px'>
       </a>

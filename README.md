@@ -66,9 +66,20 @@
 </p>
 <hr>
 
-### 💻 Portfolio
+### 💻 Public portfolio
 
 <table>
+  <tr>
+    <td width='320px'>
+        <img src='assets/skb-crm.gif' width='300px'>
+    </td>
+    <td>
+      <h3><a href='https://github.com/alvar91/crm-skillbox-js-css-express-mongodb' title='Open repository'>Skb CRM</a></h3>
+      <p>CRUD, Model View Presenter, Patterns, Single Page Application, Routing</p>
+      <p>NodeJS, Express, MongoDB, Mongoose, HTML, CSS, JavaScript, IMask</p>
+      <p>«Skb CRM» — Customer Relationship Management service for education system</p>
+    </td>
+  </tr>
   <tr>
     <td width='320px'>
       <a href='https://alvar91.github.io/stdpls-pug-scss-js' title='View project demo'>

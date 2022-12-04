@@ -24,13 +24,13 @@
 <a href="https://koajs.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/koajs/koajs-ar21.svg" alt="koa" height="40"/> </a>
 <!-- Nest -->
 <a href="https://nestjs.com" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" alt="Nest" height="40"/> </a>
+<img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" alt="nest" height="40"/> </a>
 <!-- Postgre -->
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="40"/> </a>
 <!-- MongoDB -->
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="40"/> </a>
 <!-- Sequelize -->
-<a href="https://sequelize.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" alt="mongodb" height="40"/> </a>
+<a href="https://sequelize.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" alt="sequelize" height="40"/> </a>
 <!-- Docker -->
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="40"/> </a>
 <!-- HTML -->
@@ -46,7 +46,7 @@
 <!-- Sass -->
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="40"/> </a>
 <!-- Less -->
-<a href="https://lesscss.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/lesscss/lesscss-ar21.svg" alt="sass" height="40"/> </a>
+<a href="https://lesscss.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/lesscss/lesscss-ar21.svg" alt="less" height="40"/> </a>
 <!-- Firebase -->
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="40"/> </a>
 <!-- Git -->
@@ -71,15 +71,28 @@
 <table>
   <tr>
     <td width='320px'>
+      <a href='https://alvar91.github.io/blanchard-html-css-js' title='View project demo'>
+        <img src='assets/blanchard.gif' width='300px'>
+      </a>
+    </td>
+    <td>
+      <h3><a href='https://github.com/alvar91/blanchard-html-css-js' title='Open repository'>Blanchard</a></h3>
+      <p>Responsive, Accessibility, Pixel perfect, Perfomance</p>
+      <p>HTML, CSS, JavaScript, JQuery, Yandex maps, Swiper slider, Input mask, Just validate, Popper, Simple bar, Tippy</p>
+      <p>«Blanchard» — a demo of an art Gallery</p>
+    </td>
+  </tr>
+  <tr>
+    <td width='320px'>
       <a href='https://alvar91.github.io/evklid-js-html-css' title='View project demo'>
         <img src='assets/evklid.gif' width='300px'>
       </a>
     </td>
     <td>
       <h3><a href='https://github.com/alvar91/evklid-js-html-css' title='Open repository'>Evklid</a></h3>
-      <p>Responsive, Accessibility, Pixel perfect</p>
+      <p>Responsive, Accessibility, Pixel perfect, Perfomance</p>
       <p>HTML, CSS, JavaScript, JQuery, Swiper slider, Tabs, Gulp</p>
-      <p>«Evklid» — a demo of an project company</p>
+      <p>«Evklid» — a demo of a project company</p>
     </td>
   </tr>
   <tr>

@@ -75,7 +75,7 @@
         <img src='assets/lostshirt.gif' width='300px'>
       </a>
     </td>
-    <td max-width='750'>
+    <td style="width:100%">
       <h3><a href='https://github.com/alvar91/lostshirt-html-css-js' title='Open repository'>Lostshirt</a></h3>
       <p>HTML, CSS, JavaScript, Slider, Isotope</p>
       <p>«Lostshirt» — a demo of an online t-shirt store</p>

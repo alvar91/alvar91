@@ -71,11 +71,24 @@
 <table>
   <tr>
     <td width='320px'>
-      <a href='https://alvar91.github.io/lostshirt-html-css-js/' title='View project demo'>
+      <a href='https://alvar91.github.io/evklid-js-html-css' title='View project demo'>
+        <img src='assets/evklid.gif' width='300px'>
+      </a>
+    </td>
+    <td>
+      <h3><a href='https://github.com/alvar91/evklid-js-html-css' title='Open repository'>Evklid</a></h3>
+      <p>Responsive, Accessibility, Pixel perfect</p>
+      <p>HTML, CSS, JavaScript, JQuery, Swiper slider, Tabs, Gulp</p>
+      <p>«Evklid» — a demo of an project company</p>
+    </td>
+  </tr>
+  <tr>
+    <td width='320px'>
+      <a href='https://alvar91.github.io/lostshirt-html-css-js' title='View project demo'>
         <img src='assets/lostshirt.gif' width='300px'>
       </a>
     </td>
-    <td style="width:100%">
+    <td>
       <h3><a href='https://github.com/alvar91/lostshirt-html-css-js' title='Open repository'>Lostshirt</a></h3>
       <p>HTML, CSS, JavaScript, Slider, Isotope</p>
       <p>«Lostshirt» — a demo of an online t-shirt store</p>

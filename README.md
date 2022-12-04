@@ -76,7 +76,7 @@
       </a>
     </td>
     <td>
-      <h3><a href='https://github.com/alvar91/coin-scss-js-express' title='Open repository'>Skb CRM</a></h3>
+      <h3><a href='https://github.com/alvar91/coin-scss-js-express' title='Open repository'>Coin.</a></h3>
       <p>Progressive web app (persistent storage), CRUD, Websocket, Model View Presenter, Patterns, Single Page Application, Routing, Drag and drop, Charts, e2e-tests</p>
       <p>NodeJS, Express, HTML, SCSS, JavaScript, ChartJS, Cypress, Yandex maps</p>
       <p>«Coin.» — a demo of the banking system with authorization, logging, work with accounts and user transactions</p>

@@ -71,7 +71,9 @@
 <table>
   <tr>
     <td width='320px'>
+      <a href='https://github.com/alvar91/crm-skillbox-js-css-express-mongodb' title='Open repository'>
         <img src='assets/skb-crm.gif' width='300px'>
+      </a>
     </td>
     <td>
       <h3><a href='https://github.com/alvar91/crm-skillbox-js-css-express-mongodb' title='Open repository'>Skb CRM</a></h3>
@@ -129,6 +131,18 @@
       <h3><a href='https://github.com/alvar91/lostshirt-html-css-js' title='Open repository'>Lostshirt</a></h3>
       <p>HTML, CSS, JavaScript, Slider, Isotope</p>
       <p>«Lostshirt» — a demo of an online t-shirt store</p>
+    </td>
+  </tr>
+  <tr>
+    <td width='320px'>
+      <a href='https://alvar91.github.io/lagoona-html-css/' title='View project demo'>
+        <img src='assets/lagoona.gif' width='300px'>
+      </a>
+    </td>
+    <td>
+      <h3><a href='https://github.com/alvar91/lagoona-html-css' title='Open repository'>Lagoona</a></h3>
+      <p>HTML, CSS</p>
+      <p>«Lagoona» — hotel chain</p>
     </td>
   </tr>
 </table>

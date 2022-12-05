@@ -71,6 +71,19 @@
 <table>
   <tr>
     <td width='320px'>
+      <a href='https://634ab0e0aa66ac2336f7991d--delicate-pasca-53d6d9.netlify.app' title='View project demo'>
+        <img src='assets/trello.gif' width='300px'>
+      </a>
+    </td>
+    <td>
+      <h3><a href='https://github.com/alvar91/shri-2022-react-task3' title='Open repository'>Trello clone</a></h3>
+      <p>Single Page Application, React Hooks, React Patterns, Routing, Persistent storage, Drag and drop</p>
+      <p>React, Redux, Redux Toolkit, Reselect, Redux Persist, React Hook Form, React Router, React Toastify, React Beautiful Dnd</p>
+      <p>«Trello clone» — a demo of the Trello</p>
+    </td>
+  </tr>
+  <tr>
+    <td width='320px'>
       <a href='https://diploma-skillbox-javascript.web.app' title='View project demo'>
         <img src='assets/instagram.gif' width='300px'>
       </a>
@@ -78,7 +91,7 @@
     <td>
       <h3><a href='https://github.com/alvar91/instagram-skillbox-diploma-react-hooks-redux-saga-tests' title='Open repository'>Instagram clone</a></h3>
       <p>Single Page Application, React Hooks, React Patterns, Routing, Unit testing, Integration testing, e2e-testing</p>
-      <p>React, Redux, Redux Saga, Material UI, Lazyload, Skeleton, Firebase, React Helmet, React Modal, Unsplash API, React Slick Carousel, Jest, Enzyme, Cypress</p>
+      <p>React, Redux, Redux Saga, React Router, Material UI, Lazyload, Skeleton, Firebase, React Helmet, React Modal, Unsplash API, React Slick Carousel, Jest, Enzyme, Cypress</p>
       <p>«Instagram clone» — a demo of the Instagram</p>
     </td>
   </tr>

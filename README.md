@@ -43,6 +43,8 @@
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="40"/> </a>
 <!-- Next -->
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" height="40"/> </a>
+<!-- Vue -->
+<a href="https://ru.vuejs.org/index.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" height="40"/> </a>
 <!-- Sass -->
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="40"/> </a>
 <!-- Less -->
@@ -69,6 +71,19 @@
 ### 💻 Public portfolio
 
 <table>
+  <tr>
+    <td width='320px'>
+      <a href='https://github.com/alvar91/ozon-tech-hw6-vue-vuex-tsx-vuetify' title='Open repository'>
+        <img src='assets/ozon-messages.gif' width='300px'>
+      </a>
+    </td>
+    <td>
+      <h3><a href='https://github.com/alvar91/ozon-tech-hw6-vue-vuex-tsx-vuetify' title='Open repository'>Ozon Messages</a></h3>
+      <p>Virtual Scroll, Single Page Application, Routing, Persistent Storage, Yandex OAuth</p>
+      <p>TypeScript, TSX, Vue, Vue Proxy, Vuex, Vuex Simple, Vue Class Component, Vue Property Decorator, Vue Router, Vuelidate, Vuetify, Vue Notification, VMask, Axios, Swagger Typescript Api</p>
+      <p>«Ozon Messages» — chat rooms with registration and logging</p>
+    </td>
+  </tr>
   <tr>
     <td width='320px'>
       <a href='https://634ab0e0aa66ac2336f7991d--delicate-pasca-53d6d9.netlify.app' title='View project demo'>
@@ -116,7 +131,7 @@
     </td>
     <td>
       <h3><a href='https://github.com/alvar91/crm-skillbox-js-css-express-mongodb' title='Open repository'>Skb CRM</a></h3>
-      <p>CRUD, Model View Presenter, Patterns, Single Page Application, Routing</p>
+      <p>CRUD, Model View Presenter, Patterns, Single Page Application, Routing, Pagination</p>
       <p>NodeJS, Express, MongoDB, Mongoose, HTML, CSS, JavaScript, IMask</p>
       <p>«Skb CRM» — Customer Relationship Management service for education system</p>
     </td>

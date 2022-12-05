@@ -71,6 +71,19 @@
 <table>
   <tr>
     <td width='320px'>
+      <a href='https://diploma-skillbox-javascript.web.app' title='View project demo'>
+        <img src='assets/instagram.gif' width='300px'>
+      </a>
+    </td>
+    <td>
+      <h3><a href='https://github.com/alvar91/instagram-skillbox-diploma-react-hooks-redux-saga-tests' title='Open repository'>Instagram clone</a></h3>
+      <p>Single Page Application, React Hooks, React Patterns, Routing, Unit testing, Integration testing, e2e-testing</p>
+      <p>React, Redux, Redux Saga, Material UI, Lazyload, Skeleton, Firebase, React Helmet, React Modal, Unsplash API, React Slick Carousel, Jest, Enzyme, Cypress</p>
+      <p>«Instagram clone» — a demo of the Instagram</p>
+    </td>
+  </tr>
+  <tr>
+    <td width='320px'>
       <a href='https://github.com/alvar91/coin-scss-js-express' title='Open repository'>
         <img src='assets/coin.gif' width='300px'>
       </a>

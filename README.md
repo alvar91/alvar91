@@ -1,4 +1,4 @@
-<h2>Hello! My name is Aleksey<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"></h2>
+<h2>Hello! My name is Alexey<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"></h2>
 <p>I am a fanatical adept of technical creativity, programmer, engineer and researcher, TypeScript stormtrooper in a constant blitzkrieg of self-development on the way to Web Valhalla. 😀</p>
 <hr>
 
@@ -82,6 +82,19 @@
       <p>Virtual Scroll, Single Page Application, Routing, Persistent Storage, Yandex OAuth</p>
       <p>TypeScript, TSX, Vue, Vue Proxy, Vuex, Vuex Simple, Vue Class Component, Vue Property Decorator, Vue Router, Vuelidate, Vuetify, Vue Notification, VMask, Axios, Swagger Typescript Api</p>
       <p>«Ozon Messages» — chat rooms with registration and logging</p>
+    </td>
+  </tr>
+  <tr>
+    <td width='320px'>
+      <a href='https://github.com/alvar91/ozon-tech-hw4-vue-vuex-tsx-tests' title='Open repository'>
+        <img src='assets/hr.gif' width='300px'>
+      </a>
+    </td>
+    <td>
+      <h3><a href='https://github.com/alvar91/ozon-tech-hw4-vue-vuex-tsx-tests' title='Open repository'>HR</a></h3>
+      <p>Single Page Application, Routing</p>
+      <p>TypeScript, TSX, Vue, Vuex, Vuex Simple, Vue Class Component, Vue Property Decorator, Vue Router</p>
+      <p>«HR» — demo of human resource CRM</p>
     </td>
   </tr>
   <tr>

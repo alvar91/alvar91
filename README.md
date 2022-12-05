@@ -92,8 +92,8 @@
     </td>
     <td>
       <h3><a href='https://github.com/alvar91/ozon-tech-hw4-vue-vuex-tsx-tests' title='Open repository'>HR</a></h3>
-      <p>Single Page Application, Routing</p>
-      <p>TypeScript, TSX, Vue, Vuex, Vuex Simple, Vue Class Component, Vue Property Decorator, Vue Router</p>
+      <p>Single Page Application, Routing, Unit testing</p>
+      <p>TypeScript, TSX, Vue, Vuex, Vuex Simple, Vue Class Component, Vue Property Decorator, Vue Router, Jest</p>
       <p>«HR» — demo of human resource CRM</p>
     </td>
   </tr>

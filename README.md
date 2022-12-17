@@ -73,6 +73,19 @@
 <table>
   <tr>
     <td width='320px'>
+      <a href='https://alvar91.github.io/lanproject-js-html-css' title='View project demo'>
+        <img src='assets/lanproject.png' width='300px'>
+      </a>
+    </td>
+    <td>
+      <h3><a href='https://github.com/alvar91/lanproject-js-html-css' title='Open repository'>Lan Project</a></h3>
+      <p>Form, Fake Password Asterisks, Debounce</p>
+      <p>JavaScript, HTML, CSS</p>
+      <p>«Lan Project» — test task for Lan Project</p>
+    </td>
+  </tr>
+  <tr>
+    <td width='320px'>
       <a href='https://github.com/alvar91/ozon-tech-hw6-vue-vuex-tsx-vuetify' title='Open repository'>
         <img src='assets/ozon-messages.gif' width='300px'>
       </a>

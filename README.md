@@ -73,6 +73,19 @@
 <table>
   <tr>
     <td width='320px'>
+      <a href='https://rad-speculoos-85741e.netlify.app' title='View project demo'>
+        <img src='assets/idex-group.png' width='300px'>
+      </a>
+    </td>
+    <td>
+      <h3><a href='https://github.com/alvar91/idex-group-react-hooks-typescript-css' title='Open repository'>Idex Group</a></h3>
+      <p>Calendar, Single Page Application, Popover</p>
+      <p>React, TypeScript</p>
+      <p>«Manager's desktop» — widget for Idex Group</p>
+    </td>
+  </tr>
+  <tr>
+    <td width='320px'>
       <a href='https://alvar91.github.io/lanproject-js-html-css' title='View project demo'>
         <img src='assets/lanproject.png' width='300px'>
       </a>

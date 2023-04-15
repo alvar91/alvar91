@@ -72,6 +72,7 @@
 ![image](https://www.codewars.com/users/alvar91/badges/large)
 <img src='assets/alVarProg.svg'>
 <hr>
+
 ### 💻 Public portfolio
 
 <table>

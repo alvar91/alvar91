@@ -68,6 +68,9 @@
 </p>
 <hr>
 
+### 🔥 Algorithmic advances
+https://www.codewars.com/users/alvar91/badges/large
+<img src='assets/alVarProg.svg'>
 ### 💻 Public portfolio
 
 <table>

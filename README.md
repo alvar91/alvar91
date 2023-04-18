@@ -69,7 +69,10 @@
 <hr>
 
 ### 🔥 Algorithmic advances
-<img src='assets/alVarProg.svg'>
+![image](https://www.codewars.com/users/alVarProg/badges/large)
+<a href='https://leetcode.com/alVarProg/' title='Open leetcode'>
+  <img src='assets/alVarProg.svg'>
+</a>
 <hr>
 
 ### 💻 Public portfolio
@@ -78,7 +81,8 @@
   <tr>
     <td width='320px'>
       <a href='https://rad-speculoos-85741e.netlify.app' title='View project demo'>
-        <img src='assets/idex-group.png' width='300px'>
+          <img src='assets/idex-group.png' width='300px'>
+        </a>
       </a>
     </td>
     <td>

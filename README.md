@@ -70,8 +70,8 @@
 
 ### 📊 Statistics
 
-![image](https://github-readme-stats.vercel.app/api?username=alvar91&theme=transparent&show_icons=true)<br/>
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=alvar91&theme=transparent&layout=compact)<br/>
+![image](https://github-readme-stats.vercel.app/api?username=alvar91&show_icons=true)<br/>
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=alvar91&layout=compact)<br/>
 [![](https://visitcount.itsvg.in/api?id=alvar91&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 <hr>
 

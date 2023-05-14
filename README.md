@@ -69,12 +69,14 @@
 <hr>
 
 ### 📊 Statistics
-![image](https://github-readme-stats.vercel.app/api?username=alvar91&theme=transparent&show_icons=true)
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=alvar91&layout=compact)
+
+![image](https://github-readme-stats.vercel.app/api?username=alvar91&theme=transparent&show_icons=true)<br/>
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=alvar91&theme=transparent&layout=compact)<br/>
 [![](https://visitcount.itsvg.in/api?id=alvar91&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 <hr>
 
 ### 🔥 Algorithmic advances
+
 ![image](https://www.codewars.com/users/alVarProg/badges/large)
 <a href='https://leetcode.com/alVarProg/' title='Open leetcode'>
   <img src='assets/alVarProg.svg'>

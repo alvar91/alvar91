@@ -73,14 +73,16 @@
 ![image](https://github-readme-stats.vercel.app/api?username=alvar91&show_icons=true&count_private=true)<br/>
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=alvar91&layout=compact)<br/>
 [![](https://visitcount.itsvg.in/api?id=alvar91&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+
 <hr>
 
 ### 🔥 Algorithmic advances
 
 ![image](https://www.codewars.com/users/alVarProg/badges/large)
 <a href='https://leetcode.com/alVarProg/' title='Open leetcode'>
-  <img src='assets/alVarProg.svg'>
+<img src='assets/alVarProg.svg'>
 </a>
+
 <hr>
 
 ### 💻 Public portfolio
@@ -88,9 +90,27 @@
 <table>
   <tr>
     <td width='320px'>
+          <img src='assets/timelines.gif' width='300px'>
+    </td>
+    <td>
+      <h3>Timelines Widget</h3>
+      <p>Timeline, Calendar, Single Page Application</p>
+      <p>React, TypeScript, React Router, Gravity UI, Redux Toolkit, React Hook Form, Docker, CI/CD, Unit-tests, Jest</p>
+      <p>«Timelines Widget» — web application that helps to analyze the history of work on a ticket. The project is designed to solve the problem of understanding how a ticket changed statuses when certain events occurred.</p>
+        <ul>The customer wanted to see the following information on the chart:
+          <li>The time an application was in a particular status and the percentage of an application in the status of the total lifetime of the application.</li>
+          <li>Clear display of task status changes</li>
+          <li>What was the time goal and how long did it take to work on the application</li>
+          <li>Change of performers</li>
+          <li>Transition to accounting/non-registration holidays</li>
+          <li>Targets for visualizing important dates when working on a ticket</li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width='320px'>
       <a href='https://rad-speculoos-85741e.netlify.app' title='View project demo'>
           <img src='assets/idex-group.png' width='300px'>
-        </a>
       </a>
     </td>
     <td>

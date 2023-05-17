@@ -96,6 +96,7 @@
       <h3>Timelines Widget</h3>
       <p>Timeline, Calendar, Single Page Application</p>
       <p>React, TypeScript, React Router, Gravity UI, Redux Toolkit, React Hook Form, Docker, CI/CD, Unit-tests, Jest</p>
+      <p>NestJS, TypeScript, Domain-driven design (DDD), Hexagonal, SOLID, PostgreSQL, TypeORM, Nginx, Docker, CI/CD, Unit-tests, Jest</p>
       <p>«Timelines Widget» — web application that helps to analyze the history of work on a ticket. The project is designed to solve the problem of understanding how a ticket changed statuses when certain events occurred.</p>
         <ul>The customer wanted to see the following information on the chart:
           <li>The time an application was in a particular status and the percentage of an application in the status of the total lifetime of the application.</li>

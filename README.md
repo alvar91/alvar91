@@ -79,9 +79,8 @@
 ### 🔥 Algorithmic advances
 
 ![image](https://www.codewars.com/users/alVarProg/badges/large)
-<a href='https://leetcode.com/alVarProg/' title='Open leetcode'>
-<img src='assets/alVarProg.svg'>
-</a>
+
+[![alVarProg's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=alVarProg)](https://leetcode.com/alVarProg/)
 
 <hr>
 

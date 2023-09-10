@@ -107,6 +107,19 @@
         </ul>
     </td>
   </tr>
+    <tr>
+    <td width='320px'>
+      <a href='https://alvar91.github.io/brooklyn-library-js-html-css' title='View project demo'>
+          <img src='assets/brooklyn-public-library.png' width='300px'>
+      </a>
+    </td>
+    <td>
+      <h3><a href='https://github.com/alvar91/brooklyn-library-js-html-css' title='Open repository'>Brooklyn Public Library</a></h3>
+      <p>Model View Presenter, Persist storage, Custom slider, Custom tabs, Fade-in, Fade-out, Modals, Validation, Copy clipboard</p>
+      <p>HTML, CSS, JavaScript</p>
+      <p>«Brooklyn Public Library» — demo for RSSchool</p>
+    </td>
+  </tr>
   <tr>
     <td width='320px'>
       <a href='https://rad-speculoos-85741e.netlify.app' title='View project demo'>
